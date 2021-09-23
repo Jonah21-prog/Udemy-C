@@ -1,0 +1,14 @@
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\bin\Debug\netcoreapp3.1\ProgramaProduto.exe
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\bin\Debug\netcoreapp3.1\ProgramaProduto.deps.json
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\bin\Debug\netcoreapp3.1\ProgramaProduto.runtimeconfig.json
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\bin\Debug\netcoreapp3.1\ProgramaProduto.runtimeconfig.dev.json
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\bin\Debug\netcoreapp3.1\ProgramaProduto.dll
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\bin\Debug\netcoreapp3.1\ProgramaProduto.pdb
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.csproj.AssemblyReference.cache
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.AssemblyInfoInputs.cache
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.AssemblyInfo.cs
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.csproj.CoreCompileInputs.cache
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.dll
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.pdb
+D:\Cursos\C# - Estudos\ProgramaProduto\ProgramaProduto\obj\Debug\netcoreapp3.1\ProgramaProduto.genruntimeconfig.cache

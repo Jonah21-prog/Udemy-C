@@ -1,0 +1,14 @@
+D:\Cursos\C# - Estudos\Programa\Programa\bin\Debug\netcoreapp3.1\Programa.exe
+D:\Cursos\C# - Estudos\Programa\Programa\bin\Debug\netcoreapp3.1\Programa.deps.json
+D:\Cursos\C# - Estudos\Programa\Programa\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.json
+D:\Cursos\C# - Estudos\Programa\Programa\bin\Debug\netcoreapp3.1\Programa.runtimeconfig.dev.json
+D:\Cursos\C# - Estudos\Programa\Programa\bin\Debug\netcoreapp3.1\Programa.dll
+D:\Cursos\C# - Estudos\Programa\Programa\bin\Debug\netcoreapp3.1\Programa.pdb
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.csproj.AssemblyReference.cache
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.AssemblyInfoInputs.cache
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.AssemblyInfo.cs
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.csproj.CoreCompileInputs.cache
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.dll
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.pdb
+D:\Cursos\C# - Estudos\Programa\Programa\obj\Debug\netcoreapp3.1\Programa.genruntimeconfig.cache
